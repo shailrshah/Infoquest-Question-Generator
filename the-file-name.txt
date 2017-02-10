@@ -1,0 +1,3 @@
+$password = "bhu123shan90"; first line
+$password = "bhu123shan90"; second line
+123
